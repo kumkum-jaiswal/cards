@@ -1,0 +1,30 @@
+.parent{
+    display: flex;
+    background-color: rgb(199, 227, 16);
+    justify-content: center;
+    height: 100vh;
+    align-items: start;
+}
+.ch1{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    margin: 20px;
+    border: 2px solid;
+    border-radius: 20px;  
+}
+.ch2{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(255, 166, 0);
+    margin: 20px;
+    border: 2px solid;
+}
+.ch3{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(221, 47, 16);
+    margin: 20px;
+    border: 2px solid;
+   
+}
